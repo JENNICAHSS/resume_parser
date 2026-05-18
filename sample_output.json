@@ -1,0 +1,90 @@
+[
+  {
+    "filename": "john_doe_resume.pdf",
+    "name": "John Doe",
+    "skills": [
+      "Python",
+      "Django",
+      "Flask",
+      "React",
+      "JavaScript",
+      "PostgreSQL",
+      "Docker",
+      "Git",
+      "REST API"
+    ],
+    "education": [
+      "B.Tech Computer Science",
+      "Bachelor of Technology - Computer Science and Engineering"
+    ],
+    "experience": "3 years",
+    "keywords": [
+      "Python",
+      "Django",
+      "Flask",
+      "React",
+      "JavaScript",
+      "PostgreSQL",
+      "Docker",
+      "Git",
+      "REST API"
+    ]
+  },
+  {
+    "filename": "jane_smith_resume.docx",
+    "name": "Jane Smith",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Hibernate",
+      "MySQL",
+      "Microservices",
+      "Kubernetes",
+      "AWS",
+      "Jenkins"
+    ],
+    "education": [
+      "M.Tech Software Engineering",
+      "B.E. Information Technology"
+    ],
+    "experience": "5 years",
+    "keywords": [
+      "Java",
+      "Spring Boot",
+      "Hibernate",
+      "MySQL",
+      "Microservices",
+      "Kubernetes",
+      "AWS",
+      "Jenkins"
+    ]
+  },
+  {
+    "filename": "alex_kumar_resume.pdf",
+    "name": "Alex Kumar",
+    "skills": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "TypeScript",
+      "GraphQL",
+      "Docker",
+      "AWS"
+    ],
+    "education": [
+      "B.S. Computer Science"
+    ],
+    "experience": "2 years",
+    "keywords": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "TypeScript",
+      "GraphQL",
+      "Docker",
+      "AWS"
+    ]
+  }
+]
